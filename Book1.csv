@@ -1,0 +1,46 @@
+Sentence #,Word,POS,Tag
+Sentence: 1,Samsung,NNP,B-brand
+,Galaxy,NN,B-series
+,On7,IN,I-series
+,Prime,VB,I-series
+,(,(,O
+,Gold,NN,B-color
+,",",",",O
+,3GB,IN,O
+,RAM,IN,O
+,32GB,IN,O
+,Memory ,IN,O
+,),),O
+,15999,Z,B-price
+Sentence: 2,HTC,NNP,B-brand
+,Desire,VB,B-series
+,10,Z,I-series
+,Pro,VB,I-series
+,(,(,O
+,Polar,VB,B-color
+,White,NN,I-color
+,),),O
+,21999,Z ,B-price
+Sentence: 3,Moto,NNP,B-brand
+,G5s,IN,B-series
+,Plus,VB,I-series
+,(,(,O
+,Lunar,VB,B-color
+,Grey,NN,I-color
+,",",",",O
+,64GB,IN,O
+,10999,Z,B-price
+Sentence: 4,Oppo ,NNP,B-brand
+,F5 ,IN,B-series
+,(,(,O
+,Black,NN,B-color
+,",",", ",O
+,Full,VB,O
+,Screen,NN,O
+,Display,NN,O
+,",",",",O
+,4,Z,O
+,GB,IN,O
+,RAM,IN,O
+,),),O
+,25999,Z,B-price
